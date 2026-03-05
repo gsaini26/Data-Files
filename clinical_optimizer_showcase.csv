@@ -1,0 +1,18 @@
+PatientId,AppointmentID,Gender,ScheduledDay,AppointmentDay,Age,Neighbourhood,Scholarship,Hipertension,Diabetes,Alcoholism,Handcap,SMS_received,Showed_up,Date.diff,is_friday
+8695611545335.0,5690729,M,2016-05-12,2016-05-20,24,ILHA DO PRÍNCIPE,False,False,False,False,False,False,False,8,True
+17353476473918.0,5726620,M,2016-05-20,2016-06-03,1,MARIA ORTIZ,False,False,False,False,False,True,False,14,True
+38299196466635.0,5724150,M,2016-05-20,2016-05-20,26,INHANGUETÁ,False,False,False,False,False,False,True,0,True
+67936282782521.0,5671405,F,2016-05-06,2016-05-06,7,ITARARÉ,False,False,False,False,False,False,True,0,True
+58519414498145.0,5654957,F,2016-05-03,2016-05-17,23,JESUS DE NAZARETH,False,False,False,False,False,False,True,14,False
+58886824988241.0,5644239,M,2016-05-02,2016-06-06,23,SANTA MARTHA,False,False,False,False,False,True,False,35,False
+76274181187421.0,5604233,M,2016-04-20,2016-05-04,17,TABUAZEIRO,False,False,False,False,False,True,False,14,False
+73191936158636.0,5718529,F,2016-05-19,2016-06-01,19,ROMÃO,False,False,False,False,False,True,True,13,False
+5368778265477.0,5753427,F,2016-05-31,2016-05-31,48,SÃO JOSÉ,True,False,False,False,False,False,True,0,False
+9968332154444.0,5576999,F,2016-04-13,2016-05-16,38,RESISTÊNCIA,True,False,False,False,False,False,False,33,False
+416474683851654.0,5782041,F,2016-06-07,2016-06-07,42,CRUZAMENTO,True,False,False,False,False,False,False,0,False
+45971672463927.0,5735910,F,2016-05-25,2016-06-01,16,SANTA HELENA,True,False,False,False,False,True,True,7,False
+8755447624546.0,5438134,F,2016-03-07,2016-05-31,18,JARDIM CAMBURI,False,False,False,False,False,True,True,85,False
+954464386155548.0,5687747,F,2016-05-11,2016-06-07,49,MARIA ORTIZ,False,False,False,False,False,True,False,27,False
+68417667599779.0,5744839,F,2016-05-30,2016-06-08,21,ROMÃO,False,False,False,False,False,True,True,9,False
+9996937725282.0,5706712,F,2016-05-17,2016-05-17,76,JOANA D´ARC,False,True,True,False,False,False,True,0,False
+3271262722886.0,5654594,M,2016-05-03,2016-05-03,15,MARIA ORTIZ,False,False,False,False,False,False,True,0,False
